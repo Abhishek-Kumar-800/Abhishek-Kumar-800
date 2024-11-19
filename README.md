@@ -1,8 +1,8 @@
-### Hi there, I'm Utkarsh 👋
+### Hi there, I'm Abhishek 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshkanswal" alt="utkarshkanswal" /> </p>
 
-I'm a Electronics and Communication student at National Institute of Technology Meghalaya. I love to solve algorithm problem. I have a good Experience of Data Structures and Algorithm .So I have a couple of repositories with experiments and material that I've used in my learning process.
+I'm a Software Developement Engineer at Exicom Tele System Ltd. I have a good Experience of Data Structures and Algorithm .I love to learn new things.So I have a couple of repositories with experiments and material that I've used in my learning process.
 
 ### What I'm up to right now
 
